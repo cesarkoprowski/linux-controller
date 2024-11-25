@@ -15,4 +15,4 @@ The application supports a wide range of operations, including:
 ## Technologies Used
 
 - **Python 3.x**
-- **GUI Framework**: Tkinter / PyQt / other (specify here if applicable).
+- **Framework**: Tkinter & Psutil.
